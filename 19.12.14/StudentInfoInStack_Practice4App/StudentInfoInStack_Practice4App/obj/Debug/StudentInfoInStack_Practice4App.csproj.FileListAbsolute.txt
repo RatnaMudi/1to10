@@ -1,0 +1,6 @@
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\bin\Debug\StudentInfoInStack_Practice4App.exe.config
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\obj\Debug\StudentInfoInStack_Practice4App.csprojResolveAssemblyReference.cache
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\bin\Debug\StudentInfoInStack_Practice4App.exe
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\bin\Debug\StudentInfoInStack_Practice4App.pdb
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\obj\Debug\StudentInfoInStack_Practice4App.exe
+H:\ASP.NET\StudentInfoInStack_Practice4App\StudentInfoInStack_Practice4App\obj\Debug\StudentInfoInStack_Practice4App.pdb

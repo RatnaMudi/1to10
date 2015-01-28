@@ -1,0 +1,16 @@
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\bin\Debug\CSVLib.dll
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.DailyExpense.resources
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+H:\atiiucProjects\17-12-2014\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+H:\DailyExpense1App\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+H:\DailyExpense1App\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+H:\DailyExpense1App\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+F:\17.12.2014\DailyExpense1App\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+F:\17.12.2014\DailyExpense1App\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+F:\17.12.2014\DailyExpense1App\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb

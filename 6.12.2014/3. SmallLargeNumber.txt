@@ -1,0 +1,20 @@
+private static void Main(string[] args)
+        {
+            Console.WriteLine("enter first number: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter second number: ");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            if (num1 > num2)
+            {
+                Console.WriteLine("larger number: " + num1);
+                Console.WriteLine("smaller number: " + num2);
+            }
+
+            else
+            {
+                Console.WriteLine("larger number: " + num2);
+                Console.WriteLine("smaller number: " + num1);
+            }
+            Console.ReadLine();
+        }

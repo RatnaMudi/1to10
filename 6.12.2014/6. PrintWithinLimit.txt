@@ -1,0 +1,14 @@
+static void Main(string[] args)
+        {
+            Console.Write("enter upper limit: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("enter lower limit: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = b; b <= i && i <= a; i++)
+            {
+                Console.WriteLine(i);
+            }
+                
+            Console.ReadLine();
+        }

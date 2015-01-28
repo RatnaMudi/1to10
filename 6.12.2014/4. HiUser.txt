@@ -1,0 +1,8 @@
+static void Main(string[] args)
+        {
+            Console.WriteLine("enter user name: ");
+            string user = Console.ReadLine();
+           
+            Console.WriteLine("hi " + user + " good day!");
+            Console.ReadLine();
+        }

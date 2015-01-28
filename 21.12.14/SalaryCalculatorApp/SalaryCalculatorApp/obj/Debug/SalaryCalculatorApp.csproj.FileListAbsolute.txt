@@ -1,0 +1,9 @@
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Form1.resources
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb

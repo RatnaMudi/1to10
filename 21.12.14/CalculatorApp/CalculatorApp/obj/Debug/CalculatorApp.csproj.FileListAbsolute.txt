@@ -1,0 +1,12 @@
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\ASP.Net\21.12.2014\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+I:\Day 10\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+I:\Day 10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+I:\Day 10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

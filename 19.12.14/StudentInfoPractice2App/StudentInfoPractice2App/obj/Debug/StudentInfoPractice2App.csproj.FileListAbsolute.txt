@@ -1,0 +1,9 @@
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\bin\Debug\StudentInfoPractice2App.exe.config
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\bin\Debug\StudentInfoPractice2App.exe
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\bin\Debug\StudentInfoPractice2App.pdb
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.csprojResolveAssemblyReference.cache
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.Form1.resources
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.Properties.Resources.resources
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.csproj.GenerateResource.Cache
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.exe
+H:\ASP.NET\StudentInfoPractice2App\StudentInfoPractice2App\obj\Debug\StudentInfoPractice2App.pdb

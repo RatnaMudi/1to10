@@ -1,0 +1,14 @@
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.Properties.Resources.resources
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.StudentEntryForm.resources
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.GenerateResource.Cache
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csprojResolveAssemblyReference.cache
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.MenuUI.resources
+E:\msd projects\Day 9\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.ViewUI.resources
+C:\Users\bcc\Desktop\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\bcc\Desktop\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\bcc\Desktop\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb

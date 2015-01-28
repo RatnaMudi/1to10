@@ -1,0 +1,18 @@
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.exe.config
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.Form1.resources
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.pdb
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.exe.config
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.exe
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.pdb
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.exe
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\bin\Debug\TxtTeFileOperationApp.pdb
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.csprojResolveAssemblyReference.cache
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.Form1.resources
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.Properties.Resources.resources
+I:\New folder\13-Dec-2014\TxtTeFileOperationApp\TxtTeFileOperationApp\obj\Debug\TxtTeFileOperationApp.csproj.GenerateResource.Cache

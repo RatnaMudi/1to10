@@ -1,0 +1,9 @@
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+E:\ASP.Net\21.12.2014\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.AccountOperationUI.resources

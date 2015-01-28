@@ -1,0 +1,5 @@
+E:\ASP.NET\13-Dec-2014\StackExampleApp\StackExampleApp\bin\Debug\StackExampleApp.exe.config
+E:\ASP.NET\13-Dec-2014\StackExampleApp\StackExampleApp\bin\Debug\StackExampleApp.exe
+E:\ASP.NET\13-Dec-2014\StackExampleApp\StackExampleApp\bin\Debug\StackExampleApp.pdb
+E:\ASP.NET\13-Dec-2014\StackExampleApp\StackExampleApp\obj\Debug\StackExampleApp.exe
+E:\ASP.NET\13-Dec-2014\StackExampleApp\StackExampleApp\obj\Debug\StackExampleApp.pdb

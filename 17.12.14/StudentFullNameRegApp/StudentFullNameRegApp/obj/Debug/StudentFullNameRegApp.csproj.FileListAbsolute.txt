@@ -1,0 +1,9 @@
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\bin\Debug\StudentFullNameRegApp.exe.config
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\bin\Debug\StudentFullNameRegApp.exe
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\bin\Debug\StudentFullNameRegApp.pdb
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.csprojResolveAssemblyReference.cache
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.Form1.resources
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.Properties.Resources.resources
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.csproj.GenerateResource.Cache
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.exe
+F:\Subir\StudentFullNameRegApp\StudentFullNameRegApp\obj\Debug\StudentFullNameRegApp.pdb

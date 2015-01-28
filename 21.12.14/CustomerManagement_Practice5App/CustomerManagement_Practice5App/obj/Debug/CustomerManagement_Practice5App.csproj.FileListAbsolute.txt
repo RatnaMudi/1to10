@@ -1,0 +1,21 @@
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.exe.config
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.exe
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.pdb
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.csprojResolveAssemblyReference.cache
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.Form1.resources
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.Properties.Resources.resources
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.csproj.GenerateResource.Cache
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.exe
+H:\ASP.NET\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.pdb
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.exe.config
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.exe
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.pdb
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.CustomerManagementUI.resources
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.Properties.Resources.resources
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.csproj.GenerateResource.Cache
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.exe
+E:\ASP.Net\21.12.2014\Projects\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.pdb
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\CustomerManagement_Practice5App\CustomerManagement_Practice5App\bin\Debug\CustomerManagement_Practice5App.exe.config
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.exe
+C:\Users\Ratna Mudi\Desktop\Projects\21.12.14\CustomerManagement_Practice5App\CustomerManagement_Practice5App\obj\Debug\CustomerManagement_Practice5App.pdb
